@@ -14,7 +14,7 @@ By the way, my learning project is about "ATS Based CV"
 
 ## Screenshots
 
-![Web Page Screenshot](https://github.com/ElMyosotisCode/webdev-lrn-fe-001-cv-framework/blob/main/images/webpage-screenshot-01.JPG)
+![Web Page Screenshot](webpage-screenshot-01.JPG)
 
 ## Roadmap
 
