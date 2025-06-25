@@ -6,7 +6,7 @@ My name is Misael Randy Limpaty (ElMyosotisCode) your future Front End Developer
 
 This project is my first project using HTML, it's only pure HTML without internal or inline CSS.
 
-I know this project is very simple, but first projects don't always have to be complicated. ✌
+I know this project is very simple, but first project don't always have to be complicated. ✌
 
 --
 
