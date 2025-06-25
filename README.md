@@ -1,9 +1,38 @@
 
-# Web Dev - F End Learning Project #001
+# Misael's F. End Learning Day-01
 
-Hello... This is my first Web Page using HTML. Very simple yes, because the first steps don't have to be complicated so I can still be motivated.
+Hello... 😃👋🏻  
+My name is Misael Randy Limpaty (ElMyosotisCode) your future Front Developer Expert.
 
+This project is my first project using HTML, it's only pure HTML without internal or inline CSS.
 
-# Hi, I'm Misael! 👋
+I know this project is very simple, but first projects don't always have to be complicated. ✌
 
-Web Dev Full Stack wanna be in 2025. For now I am learning Front End Dev from basics. 😀
+--
+
+By the way, my learning project is about "ATS Based CV"
+
+## Screenshots
+
+![Web Page Screenshot](.\images\webpage-screenshot-01.JPG)
+
+## Roadmap
+
+So far here are my plan in this project  
+*May change in the future
+
+- ☑ **HTML** | Base structure
+
+- ⬜ **HTML** | Every section's content
+
+- ⬜ **HTML** | Opening tags attributes for easier CSS modification
+
+- ⬜ **HTML** | Aria accessibility
+
+- ⬜ **CSS** | Content styling
+
+- ⬜ **CSS** | Content placement
+
+- ⬜ **CSS** | Hover animation for anchor-link
+
+- ⬜ **CSS** | Card view box model
