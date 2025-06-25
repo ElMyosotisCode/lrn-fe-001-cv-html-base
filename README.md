@@ -2,7 +2,7 @@
 # Misael's F. End Learning Day-01
 
 Hello... 😃👋🏻  
-My name is Misael Randy Limpaty (ElMyosotisCode) your future Front Developer Expert.
+My name is Misael Randy Limpaty (ElMyosotisCode) your future Front End Developer Expert.
 
 This project is my first project using HTML, it's only pure HTML without internal or inline CSS.
 
