@@ -10,7 +10,9 @@ I know this project is very simple, but first project don't always have to be co
 
 --
 
-By the way, my learning project is about "ATS Based CV"
+By the way, for my learning project I took "ATS Based CV" as my first project, because I want to create a CV that can be used to apply for a job in the future.
+
+In this progress session, I created the base structure of my CV web page using HTML.
 
 ## Learning Module Session 1 -> HTML Basics
 
