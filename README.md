@@ -12,6 +12,16 @@ I know this project is very simple, but first project don't always have to be co
 
 By the way, my learning project is about "ATS Based CV"
 
+## Learning Module Session 1 -> HTML Basics
+
+In this session, I learned about the basic structure of HTML, such as:
+- HTML Document Structure
+- HTML Elements and Tags
+- HTML Attributes
+- HTML Headings and Paragraphs
+- HTML Links
+- HTML Lists
+
 ## Screenshots
 
 ![Web Page Screenshot](https://github.com/ElMyosotisCode/webdev-lrn-fe-001-cv-framework/blob/main/images/webpage-screenshot-01.JPG)
